@@ -10,6 +10,8 @@ This repository includes:
 - A U.S.-specific dataset enriched with Social Vulnerability Index (SVI) data and additional granular geographic variables
 - Shareholder datasets, including data on parent companies of subsidiaries holding lithium projects
 
+Datasets are located in the `cleaned_datasets/` folder.
+
 ## Methodology
 
 The main dataset was compiled over several months using a combination of:
