@@ -9,7 +9,6 @@ This repository includes:
 - A cleaned global dataset of lithium mining projects, covering proposed, developing, and operating sites
 - A U.S.-specific dataset enriched with Social Vulnerability Index (SVI) data and additional granular geographic variables
 - Shareholder datasets, including data on parent companies of subsidiaries holding lithium projects
-- Data analysis notebooks used in the investigation
 
 ## Methodology
 
